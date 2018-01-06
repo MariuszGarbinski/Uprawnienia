@@ -7,4 +7,5 @@
     <string name="Kamera">Dostęp do kamery</string>
     <string name="kontakty">Dostęp do kontaktów</string>
     <string name="kompas">Kompas</string>
+    <string name="stopnie">0°</string>
 </resources>

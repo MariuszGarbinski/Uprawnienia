@@ -82,7 +82,7 @@ public class CompasActivity extends AppCompatActivity implements SensorEventList
         if(mAzimuth <= 80 && mAzimuth > 10)
             where = "NE";
 
-        txt_azimuth.setText(mAzimuth + " " + where);
+        txt_azimuth.setText(mAzimuth + "° - " + where);
 
     }
 
