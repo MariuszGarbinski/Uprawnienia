@@ -180,15 +180,6 @@ public class UprawnieniaActivity extends AppCompatActivity {
             }
 
         });
-
-        //Kompas
-        Button compas = (Button) findViewById(R.id.btnCompass);
-        compas.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(UprawnieniaActivity.this,CompasActivity.class));
-            }
-        });
     }
 
     @Override

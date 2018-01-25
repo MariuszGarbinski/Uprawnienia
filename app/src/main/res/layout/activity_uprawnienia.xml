@@ -70,14 +70,6 @@
             android:layout_marginBottom="10dp"
             android:onClick="ask"
             android:text="@string/kontakty" />
-
-        <Button
-            android:id="@+id/btnCompass"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="10dp"
-            android:onClick="compasView"
-            android:text="@string/kompas" />
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
